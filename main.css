@@ -1,0 +1,21 @@
+html {
+    background: #73d6a8;
+
+}
+
+h1 {
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+    padding-top: 400px;
+    font-size: 72px;
+}
+
+.div1 {
+    height: 500px;
+}
+
+.div2 {
+    height: 500px;
+    background-color: darkolivegreen;
+    margin: auto 0;
+}
